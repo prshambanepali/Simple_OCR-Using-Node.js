@@ -36,6 +36,7 @@ app.post("/extracttextfromimage", upload.single("file"), (req, res) => {
     lang: "eng",
     oem: 1,
     psm: 3,
+    
   };
 
   tesseract
