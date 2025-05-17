@@ -5,4 +5,6 @@
        npm init -y 
 3.also npm i node-tesseract-ocr
 4.npm install -g nodemon
+5. npm install ejs
+
 
